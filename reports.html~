@@ -83,7 +83,7 @@
                         <i class="fas fa-chart-line"></i>
                     </div>
                     <div class="stat-content">
-                        <h3>$45.2M</h3>
+                        <h3>₦45.2M</h3>
                         <p>Total Revenue</p>
                     </div>
                 </div>
@@ -129,7 +129,6 @@
                     <li>Payment collection reports</li>
                     <li>Tax and compliance reports</li>
                     <li>Custom report builder</li>
-		    <li>Recommendations for efficiency</li>
                 </ul>
             </div>
         </main>
